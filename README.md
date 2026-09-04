@@ -1,3 +1,3 @@
 <html>Hello world</html>
-<h6>My name is Naod</h6>
-<h5>My sister Naomi is a piece of chit</h5>
+<h5>My name is Naod</h5>
+<h6>My sister Naomi is a piece of chit</h6>
